@@ -1,8 +1,10 @@
 # poc-tailwind-vue
 
-> Setup of Tailwind CSS in Vue
+> Test setup of Tailwind CSS in Vue, for my talk at Vue.js Meetup Hamburg
 
-based on https://markus.oberlehner.net/blog/setting-up-tailwind-css-with-vue/
+- Meetup https://www.meetup.com/Hamburg-Vue-js-Meetup/events/268138412/
+- Presentation slides https://drive.google.com/file/d/17EY4SaTFHCq6UuPjdXvzKCOei-2ZC9V6/view
+- based on https://markus.oberlehner.net/blog/setting-up-tailwind-css-with-vue/
 
 ## Project setup
 
