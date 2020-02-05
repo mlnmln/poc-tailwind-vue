@@ -1,6 +1,6 @@
 # poc-tailwind-vue
 
-> Setup Tailwind CSS in Vue
+> Setup of Tailwind CSS in Vue
 
 based on https://markus.oberlehner.net/blog/setting-up-tailwind-css-with-vue/
 
@@ -21,6 +21,8 @@ yarn run serve
 ```
 yarn run build
 ```
+
+Uses [PurgeCSS](https://purgecss.com/) to extract only CSS that is in-use.
 
 ### Run your tests
 
