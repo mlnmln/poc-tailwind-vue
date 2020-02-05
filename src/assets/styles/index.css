@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+
+.heading-medium {
+  @apply font-sans text-base leading-snug font-medium;
+}
+
+.heading-large {
+  @apply font-sans text-xl leading-normal font-medium;
+}
+
+.caption {
+  @apply font-sans text-xs leading-snug font-bold tracking-widest uppercase;
+}
+
+.text-tiny {
+  @apply font-sans text-xs leading-snug;
+}
+
+.text-small {
+  @apply font-sans text-sm leading-normal;
+}
+
+.text-medium {
+  @apply font-sans text-base leading-normal;
+}
+
+.text-large {
+  @apply font-sans text-xl leading-normal;
+}
+
+@tailwind utilities;
