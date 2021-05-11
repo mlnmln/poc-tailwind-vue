@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.7",
-    "lodash": "4.17.13",
+    "lodash": "4.17.21",
     "tailwind": "^4.0.0",
     "tailwindcss": "^1.1.4",
     "vue": "^2.6.10"
